@@ -1,10 +1,26 @@
 ---
-layout: post
-title: You're up and running!
+title: Spring 시작, 환경설정
+강의명: 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+date: 25/03/29
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+김영한 강사님의 인프런 '스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술' 강의를 듣고 기록하는 post 입니다.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Spring을 공부해야 하는 이유
+-> 실무에서 동작하는 웹 어플리케이션을 개발하기 위해
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+이 강의를 통해 간단한 웹 어플리케이션을 개발할 예정이다
+1) 스프링 프로젝트 생성
+2) 스프링 부트로 웹 서버 실행
+3) 회원 도메인 개발
+4) 웹 MVC 개발
+5) DB 연동 - JDBC, JPA, 스프링 데이터 JPA
+6) 테스트 케이스 작성
+
+프로젝트 사용 기술
+- Spring Boot, JPA, Gradle, HIBERNTE, Thymeleaf ...
+
+스프링 기술 그 자체에 매몰X, but 어떻게 사용해야 하는지에 초점
+오래된 스프링 기술X, 마이너한 스프링 기술 X
+
+학습방법 : 처음부터 끝까지 직접 코딩
